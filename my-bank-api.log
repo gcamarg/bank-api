@@ -1,0 +1,15 @@
+2020-12-20T16:10:52.688Z [my-bank-api] info: Online.
+2020-12-20T16:13:37.702Z [my-bank-api] info: Online.
+2020-12-20T16:14:00.138Z [my-bank-api] info: POST user: Otávio Nicacio, ID: 10
+2020-12-20T16:16:25.891Z [my-bank-api] info: Online.
+2020-12-20T16:17:49.245Z [my-bank-api] info: Online.
+2020-12-20T16:18:33.524Z [my-bank-api] info: Online.
+2020-12-20T16:18:36.139Z [my-bank-api] error: GET at /account - Cannot read property 'name' of undefined
+2020-12-21T02:10:43.979Z [my-bank-api] info: Online.
+2020-12-21T02:11:23.593Z [my-bank-api] error: POST at /account - Nome é obrigatório.
+2020-12-21T02:11:56.943Z [my-bank-api] info: Online.
+2020-12-21T02:12:07.084Z [my-bank-api] error: POST at /account - Nome é obrigatório.
+2020-12-21T02:13:14.988Z [my-bank-api] error: POST at /account - Nome é obrigatório.
+2020-12-21T02:13:32.223Z [my-bank-api] info: POST user: Francisco Almeida, ID: 1
+2020-12-21T02:13:39.495Z [my-bank-api] error: POST at /account - Nome é obrigatório.
+2020-12-21T03:54:23.384Z [my-bank-api] info: Online.
